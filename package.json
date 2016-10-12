@@ -1,0 +1,30 @@
+{
+  "name": "node-capitalwords",
+  "version": "1.0.0",
+  "description": "A node wrapper around Sunlight Foundation's Capital Words API.",
+  "author": "Tim Camara (https://github.com/tcamara)",
+  "license": "MIT",
+  "keywords": [
+    "capital words",
+    "capital",
+    "sunlight foundation",
+    "sunlight labs",
+    "sunlight",
+    "congress",
+    "political",
+    "api",
+    "node"
+  ],
+  "main": "capitalwords.js",
+  "dependencies": {
+    "request": "^2.75.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcamara/node-capitalwords"
+  },
+  "bugs": {
+    "url": "https://github.com/tcamara/node-capitalwords/issues",
+    "email": "tcamara21@gmail.com"
+  }
+}
